@@ -20,4 +20,4 @@ else:
     reminder += " Consider completing it when you have free time."
 
 # Print the reminder
-print(f"\nReminder: {reminder}")
+print(f"Reminder: {reminder}")
